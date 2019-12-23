@@ -143,7 +143,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>10</integer>
+		<integer>6</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -159,7 +159,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>53</integer>
+			<integer>5</integer>
 		</dict>
 		<key>USB</key>
 		<dict>
@@ -208,9 +208,9 @@
 			<false/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>1920x1080</string>
+		<string>3840x2160</string>
 		<key>Theme</key>
-		<string>SimpleThemeDark</string>
+		<string>Mojave4k</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -351,7 +351,7 @@
 		<key>SerialNumber</key>
 		<string>C02T3LZXHX87</string>
 		<key>SmUUID</key>
-		<string>D2AA8218-29CC-49A9-9A16-A809FAB6F735</string>
+		<string>135C55EE-1D46-4B1F-85B8-CD3231F6E7A1</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
