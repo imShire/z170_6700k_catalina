@@ -16,6 +16,10 @@
 				<true/>
 				<key>FixHDA</key>
 				<true/>
+				<key>FixHPET</key>
+				<false/>
+				<key>FixIPIC</key>
+				<false/>
 				<key>FixShutdown</key>
 				<true/>
 			</dict>
@@ -159,7 +163,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>5</integer>
+			<integer>11</integer>
 		</dict>
 		<key>USB</key>
 		<dict>
